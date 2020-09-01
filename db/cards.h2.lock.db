@@ -1,0 +1,6 @@
+#FileLock
+#Sun Aug 30 12:35:58 CST 2020
+hostName=192.168.31.187
+id=1743da67f3f7c7b119f6191a498eebb1fafffd99ba1
+method=file
+server=192.168.31.187\:51763
