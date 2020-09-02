@@ -10,6 +10,8 @@ public class XMPPCardController : NetworkBehaviour {
 
     // Start is called before the first frame update
     void Start() {
+        var test = mage.cards.repository.CardRepository.instance.findCard("Gruul Guildgate");
+
         if (isClient) {
             localCard = Instantiate(localCardPrefab);
         }
