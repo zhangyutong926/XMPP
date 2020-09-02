@@ -1,6 +1,6 @@
 #FileLock
-#Tue Sep 01 14:58:49 CST 2020
-hostName=192.168.39.1
-id=1744875f110740c6a458ea786a3ed4aa9e8f0388f46
+#Wed Sep 02 14:44:15 CST 2020
+hostName=192.168.31.189
+id=1744d8f05d7fcfb83980f8f84b1e883924a344ecf25
 method=file
-server=192.168.39.1\:61884
+server=192.168.31.189\:58343
